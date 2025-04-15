@@ -1,2 +1,1 @@
-# Keeper_App
-Created with CodeSandbox
+# Keeper_App using React
